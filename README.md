@@ -1,3 +1,3 @@
 # mydocker
 
-## 需要依赖pipework工具来管理docker的网路配置
+用来记录docker配置的方法
